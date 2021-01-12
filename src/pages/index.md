@@ -1,6 +1,6 @@
 ---
 title: Vinod Kumar
-hide_title: true
+hide_title: false
 sections:
   - section_id: hero
     type: section_hero
